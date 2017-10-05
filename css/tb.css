@@ -1,0 +1,58 @@
+/* http://www.minifycss.com/css-compressor/ */
+body {
+color:#444;
+font-family:helvetica,verdana,sans-serif;
+background:#fff;
+padding:0;margin:0;
+font-size: 13px;
+}
+
+#wrap{width:700px;margin:0 auto;}
+#cw{width:400px;float:left;}
+
+#box {
+width: 275px;
+float: right;
+height: 209px;
+font-size: 22px;
+}
+
+canvas {
+border: 1px solid black;
+}
+
+
+#ftr {
+clear: both;
+padding: 1em 0;
+}
+
+#b {
+	font-size:32px;
+	line-height:12px;
+}
+
+p.cust {
+	background: #EFEFEF;
+	padding: 1em;
+	border: 1px red solid;
+}
+
+p.std, p.cust {
+	text-align:center;
+}
+
+.cust, .ed, #m {
+	display:none;
+}
+
+#edtile {
+  margin-bottom: -2px;
+  display: inline-block;
+}
+
+#abt {
+font-size: 10px;
+text-align:center;
+margin-top: 3em;
+}
