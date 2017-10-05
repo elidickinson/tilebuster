@@ -1,3 +1,5 @@
+Demo URL: http://tilebuster.esd.io/
+
 Greetings!
 
 The game is loosely based on my recollection of an old TI calculator game called Diamonds.
